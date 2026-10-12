@@ -2,6 +2,8 @@
 
 Aplikasi sederhana untuk mencatat bahan baku, pemasok, pembelian, dan pemakaian bahan Cafe Tentang Kita. Database menggunakan Supabase/PostgreSQL. Di Windows, server lokal dapat dijalankan memakai PowerShell yang sudah tersedia di Windows, tanpa mengunduh Node.js atau dependensi npm.
 
+Demo Web: https://hanifahmahdiyyahh.github.io/Sisteem-Pembelian-dan-Persediaan-Perpetual-Cafe/frontend/index.html#overview
+
 ## Struktur
 
 - `frontend/` — halaman HTML, CSS, dan JavaScript.
